@@ -27,7 +27,7 @@
       </el-form-item>
       <el-form-item>
         <!-- <el-button type="primary" @click="submitForm('ruleForm')">登录</el-button> -->
-        <el-button type="primary" @click="submitForm()">登录啊啊啊</el-button>
+        <el-button type="primary" @click="submitForm()">登录啊啊哦啊</el-button>
 
         <!-- 这里用来vue绑定事件 -->
         <a @click="regg" class="regs">免费注册</a>
